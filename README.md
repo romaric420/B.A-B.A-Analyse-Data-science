@@ -95,6 +95,3 @@ Ce projet permet d'acquérir une solide compréhension des processus de traiteme
 
 🔗 **Suivez mon évolution !** Ce dépôt montre comment mes compétences en Data Science ont évolué à travers les erreurs rencontrées et les améliorations apportées. Retrouvez mes progrès en explorant les commits et les versions précédentes !
 
----
-
-Ce **README.md** est conçu pour être une vitrine dynamique de mes compétences en Data Science, tout en incluant une touche d'animation pour rendre l'apprentissage plus engageant ! :sparkles:
